@@ -34,5 +34,3 @@ Enlaces:
 Imágenes:
 
 ![Texto alternativo](URL "Titulo de la imagen")
-
-
