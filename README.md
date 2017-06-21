@@ -1,3 +1,3 @@
 # pruebaRepo
 
-creamos conflicto 2
+creamos conflicto 2.1
