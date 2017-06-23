@@ -68,17 +68,7 @@ mdcastillo@PR175:~/git/pruebaRepo$
 
 
 
-<<<<<<< HEAD
-
-=======
-
-
-
 dale 
 dale3
 
-
-
-
->>>>>>> brach1
 
