@@ -10,10 +10,8 @@
 Citas: Para citar solo es necesario escribir una cu�a antes del texto
 
 
-
-
 dale 
-
+dale3
 
 <pre>
 #usage: git [--version] [--help] [-C <path>] [-c name=value]
@@ -70,12 +68,7 @@ mdcastillo@PR175:~/git/pruebaRepo$
 
 
 
-
-
-
 dale 
 dale3
-
-
 
 
