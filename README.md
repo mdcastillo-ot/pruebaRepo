@@ -10,18 +10,8 @@
 Citas: Para citar solo es necesario escribir una cu�a antes del texto
 
 
-
 dale 
 dale3
-
-
-
-
-
-
-
-
-
 
 <pre>
 #usage: git [--version] [--help] [-C <path>] [-c name=value]
@@ -39,7 +29,7 @@ start a working area (see also: git help tutorial)
    init       Create an empty Git repository or reinitialize an existing one
 
 work on the current change (see also: git help everyday)
-   add        Add file contents to the index
+   add        Ad contents to the index
    mv         Move or rename a file, a directory, or a symlink
    reset      Reset current HEAD to the specified state
    rm         Remove files from the working tree and from the index
@@ -78,4 +68,17 @@ mdcastillo@PR175:~/git/pruebaRepo$
 
 
 
+<<<<<<< HEAD
+
+=======
+
+
+
+dale 
+dale3
+
+
+
+
+>>>>>>> brach1
 
